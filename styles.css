@@ -1,0 +1,15 @@
+#title {
+    text-align: center;
+}
+
+#bunny {
+    width: 20vh;
+    align-self: center;
+    margin-bottom: 4vh;
+    border-radius: 100%;
+}
+
+.body {
+    background: cornsilk;
+    padding-bottom: 100%;
+}
